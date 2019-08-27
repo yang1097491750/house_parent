@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/house_dao/house_dao.iml" filepath="$PROJECT_DIR$/house_dao/house_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/house_parent.iml" filepath="$PROJECT_DIR$/house_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/house_service/house_service.iml" filepath="$PROJECT_DIR$/house_service/house_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/house_web/house_web.iml" filepath="$PROJECT_DIR$/house_web/house_web.iml" />
+    </modules>
+  </component>
+</project>
